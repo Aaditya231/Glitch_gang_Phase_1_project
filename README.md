@@ -17,6 +17,13 @@ Our Discord bot aims to simplify the verification process for participants in da
 4. **Check Eligibility:** Allows you to check the reward eligibility status of a user.
 5. **Daily Verification:** Automated check for user submissions every 24 hours.
 
+![Alternative Text](https://github.com/Aaditya231/Glitch_gang_Phase_1_project/blob/main/images/Screenshot%20(250).png)
+![Alternative Text](https://github.com/Aaditya231/Glitch_gang_Phase_1_project/blob/main/images/Screenshot%202023-10-15%20211716.png)
+![Alternative Text](https://github.com/Aaditya231/Glitch_gang_Phase_1_project/blob/main/images/Screenshot%202023-10-15%20211757.png)
+![Alternative Text](https://github.com/Aaditya231/Glitch_gang_Phase_1_project/blob/main/images/Screenshot%202023-10-15%20211736.png)
+
+
+
 ### 🛠️ Installation & Setup
 
 1. **Clone the Repository**
