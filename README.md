@@ -23,3 +23,4 @@ Our Discord bot aims to simplify the verification process for participants in da
    ```sh
    git clone https://github.com/your-username/discord-challenge-bot.git
    cd discord-challenge-bot
+2. to run python -m src.main
